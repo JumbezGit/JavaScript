@@ -1,5 +1,4 @@
-"# JavaScript" 
-"## // Day 1: JS Basics – Variables, Data Types, Conditions, Loops
+// Day 1: JS Basics – Variables, Data Types, Conditions, Loops
 
 // 1. Even or Odd Checker
 // Write a program that takes a number and prints whether it's even or odd.
@@ -33,4 +32,3 @@
 
 // 10. Sum of All Elements in Array
 // Write a function that takes an array of numbers and returns the total sum.
-"
